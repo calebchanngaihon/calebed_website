@@ -1,0 +1,12 @@
+
+> tmp_app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 608ms
+
+○ Compiling / ...
+ GET / 200 in 7.6s (next.js: 6.8s, application-code: 863ms)
+[browser] THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
